@@ -1,0 +1,22 @@
+---
+homebrew_installed_packages:
+  - wget
+  - openssl
+  - jq
+  - ssh-copy-id
+  - bash-completion
+  - shellcheck
+
+homebrew_upgrade_all_packages: true
+
+homebrew_taps:
+  - homebrew/core
+  - homebrew/cask
+
+homebrew_cask_apps:
+  - google-chrome
+  - firefox
+  - visual-studio-code
+  - sublime-text
+  - discord
+
