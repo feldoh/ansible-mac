@@ -19,4 +19,5 @@ homebrew_cask_apps:
   - visual-studio-code
   - sublime-text
   - discord
-
+  - java
+  - steam
